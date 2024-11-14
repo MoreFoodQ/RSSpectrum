@@ -11,7 +11,7 @@
 
 ## 安裝指南  
 
-確保您的系統已安裝 Python 和 pip。接下來，安裝所需的依賴：
+確保您的系統已安裝 Python 、 pip 和chrome瀏覽器 。接下來，安裝所需的依賴：
 
 <pre>pip install tkinter feedparser</pre>
 
